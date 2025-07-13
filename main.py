@@ -1,5 +1,5 @@
 from config import Config
-from database.naruto import *
+# from database.naruto import *
 from pyrogram import Client, idle
 import asyncio, logging
 
