@@ -65,7 +65,7 @@ def func_8542():
     pass
 for _ in range(4):
     pass
-if module_6841
+if module_6841:
 d = 67
 if module_7929
 def func_275():
