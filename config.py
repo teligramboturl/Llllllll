@@ -2,11 +2,11 @@ import os
 
 class Config(object):
     # Telegram Bot ka token
-    BOT_TOKEN = "7691272055:AAEb2cq9_G3JKWrpq5NKSlXI6wEF1CLj4tc"
+    BOT_TOKEN = ""
     # Telegram API ki ID
-    API_ID = 27660379
-    API_HASH = "19c71c27733f0954371085198855125a"
-    ADMIN_ID = [5459854363]
+    API_ID = 22182189
+    API_HASH = "5e7c4088f8e23d0ab61e29ae11960bf5"
+    ADMIN_ID = [5302639580]
     # MongoDB database ka URL
     DB_URL = "mongodb+srv://sindhavravi11:%24Sind1234567890@cluster0.bwlgbx3.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     # Database ka naam
@@ -24,7 +24,7 @@ class Config(object):
     # Channel ka link
     CH_URL = "https://t.me/ravi1996sindhav"
     # Bot ke owner ka Telegram link
-    OWNER = "https://t.me/username"
+    OWNER = "https://t.me/OWNER_004"
     # Thumbnail image ka URL
     THUMB_URL = "https://telegra.ph/file/example-thumb-image.jpg" #Replace by with your Thumb URL
     PREMIUM_LOGS = "-1002761572365"
